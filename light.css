@@ -1,7 +1,7 @@
 .header {
   background-color: #f5f5f5 !important;
   color: #333 !important;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #eee !important;
 }
 
 .header .header-logo-wordmark, .header .header-logo-invertocat {
