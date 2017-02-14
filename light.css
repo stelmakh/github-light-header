@@ -12,6 +12,14 @@
   color: #555 !important;
 }
 
+.header .header-nav-link:hover, .header .header-nav-link:focus {
+  color: #333 !important;
+}
+
+.header-nav-link:hover .dropdown-caret, .header-nav-link:focus .dropdown-caret {
+  border-top-color: #333 !important;
+}
+
 .header .notification-indicator:hover .mail-status {
   background-color: #4078c0 !important;
 }
