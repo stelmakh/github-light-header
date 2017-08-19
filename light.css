@@ -8,15 +8,15 @@
   color: #555 !important;
 }
 
-.header .header-nav-link {
+.header .header-navlink {
   color: #555 !important;
 }
 
-.header .header-nav-link:hover, .header .header-nav-link:focus {
+.header .header-navlink:hover, .header .header-navlink:focus {
   color: #333 !important;
 }
 
-.header-nav-link:hover .dropdown-caret, .header-nav-link:focus .dropdown-caret {
+.header-navlink:hover .dropdown-caret, .header-navlink:focus .dropdown-caret {
   border-top-color: #333 !important;
 }
 
