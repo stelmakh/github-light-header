@@ -23,12 +23,12 @@
   border-top-color: #333 !important;
 }
 
-.Header .notification-indicator:hover .mail-status {
+.Header .notification-indicator .mail-status {
   background-color: #4078c0 !important;
 }
 
 .Header .notification-indicator .mail-status {
-  color: #f3f3f3 !important;
+  border: #f3f3f3 !important;
 }
 
 .Header .form-control, .Header .form-select {
