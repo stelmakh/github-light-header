@@ -1,42 +1,45 @@
-.header {
+.Header {
   background-color: #f5f5f5 !important;
   color: #333 !important;
   border-bottom: 1px solid #eee !important;
 }
 
-.header .header-logo-wordmark, .header .header-logo-invertocat {
+.Header .header-logo-wordmark, .Header .header-logo-invertocat {
   color: #555 !important;
 }
 
-.header .header-nav-link {
+.Header .HeaderNavlink {
   color: #555 !important;
 }
 
-.header .header-nav-link:hover, .header .header-nav-link:focus {
+.notification-indicator {
+  color: #555 !important;
+}
+.Header .HeaderNavlink:hover, .Header .HeaderNavlink:focus {
   color: #333 !important;
 }
 
-.header-nav-link:hover .dropdown-caret, .header-nav-link:focus .dropdown-caret {
+.header-Navlink:hover .dropdown-caret, .HeaderNavlink:focus .dropdown-caret {
   border-top-color: #333 !important;
 }
 
-.header .notification-indicator:hover .mail-status {
+.Header .notification-indicator .mail-status {
   background-color: #4078c0 !important;
 }
 
-.header .notification-indicator .mail-status {
-  border-color: #f3f3f3 !important;
+.Header .notification-indicator .mail-status {
+  border: #f3f3f3 !important;
 }
 
-.header .form-control, .header .form-select {
+.Header .form-control, .Header .form-select {
   color: #333 !important;
   outline: none !important;
 }
 
-.header .header-search-input::-webkit-input-placeholder {
+.Header .header-search-input::-webkit-input-placeholder {
   color: #767676 !important;
 }
-.header .header-search-wrapper {
+.Header .header-search-wrapper {
   background-color: #fff !important;
   background-repeat: no-repeat !important;
   background-position: right 8px center !important;
@@ -44,7 +47,7 @@
   border-radius: 3px !important;
 }
 
-.header .header-search-scope {
+.Header .header-search-scope {
   font-size: 12px !important;
   color: #767676 !important;
   border-right: 1px solid #eee !important;
